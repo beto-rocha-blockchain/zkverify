@@ -72,18 +72,6 @@ cd ZkVerify
 
 📌 O script verifica dependências e inicializa os contêineres.
 
-## 📁 Estrutura do Projeto
-
-```bash
-ZkVerify/
-├── docker-compose.yml       # Orquestração dos serviços
-├── .env                     # Variáveis de ambiente
-├── scripts/
-│   ├── init.sh              # Script principal de inicialização
-│   └── utils.sh             # Funções auxiliares
-└── README.md                # Documentação
-```
-
 ## 🧪 Testes
 
 ```bash
