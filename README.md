@@ -4,7 +4,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-blue.svg)
 
-> Um node local confiável para validar provas zero-knowledge (ZK) com foco em segurança, transparência e escalabilidade. Este repositório serve como portfólio para minha carreira como desenvolvedor Web3, evidenciando habilidades práticas em infraestrutura, automação e segurança blockchain.
+> Um node local confiável para validar provas zero-knowledge (ZK) com foco em segurança, transparência e escalabilidade. Este repositório serve como exemplo para desenvolvedores Web3, evidenciando habilidades práticas em infraestrutura, automação e segurança blockchain.
 
 ---
 
