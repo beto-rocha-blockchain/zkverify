@@ -93,26 +93,20 @@ docker logs zkverify_node | jq
 ```
 
 ## 🧠 Conceitos Envolvidos
+
 ZKP (Zero-Knowledge Proof): provas que permitem validar informações sem revelá-las.
-
 zk-SNARKs/STARKs: tipos específicos de provas usadas em blockchains modernas.
-
 Docker: permite isolar ambientes de execução para maior reprodutibilidade.
-
 jq: ferramenta poderosa para parseamento e manipulação de JSON.
 
-##🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas! Siga os passos:
 
 1. Faça um fork
-
 2. Crie sua branch com a feature (git checkout -b feature/minha-feature)
-
 3. Commit suas alterações (git commit -m 'feat: adiciona minha feature')
-
 4. Push na sua branch (git push origin feature/minha-feature)
-
 5. Crie um Pull Request
 
 ## 🧾 Licença
